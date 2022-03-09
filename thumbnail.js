@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function(event) {
-    alert("Hello JavaScript");
-
+    <img src="https://game.gtimg.cn/images/lol/act/img/skin/big157036.jpg">
+    class="small"
 
 });
